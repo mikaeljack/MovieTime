@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"no.hiof.larseknu.movietime"},{"l":"no.hiof.larseknu.movietime.controller"},{"l":"no.hiof.larseknu.movietime.model"}]
